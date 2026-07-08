@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Eraye Tsegaye</h1>
 
-<h3 align="center">💻 Computer Science Student | 🌍 Ethiopia </h3>
+<h3 align="center">💻 Computer Science Student |  Ethiopia </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;C%2B%2B+Developer;Java+Programmer;Python+Programmer;HTML+%26+CSS+Developer;Always+Learning+New+Things" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 -  Computer Science Student
 -  Passionate about Software Development and Technology
@@ -22,7 +22,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,git,github,vscode,mysql,linux" />
@@ -30,7 +30,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=erayetsegaye&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -39,7 +39,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=erayetsegaye&theme=tokyonight&hide_border=true" />
@@ -47,7 +47,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=erayetsegaye&theme=tokyonight&no-frame=true&row=1&column=6" />
@@ -55,7 +55,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=erayetsegaye&theme=tokyo-night" />
@@ -63,7 +63,7 @@
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Data Structures & Algorithms
 - Object-Oriented Programming
@@ -73,7 +73,7 @@
 
 ---
 
-## 🎯 2026 Goals
+## 2026 Goals
 
 -  Build 20+ programming projects
 -  Master Java & Python
@@ -84,7 +84,7 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/erayetsegaye">
