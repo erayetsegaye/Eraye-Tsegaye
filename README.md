@@ -83,14 +83,20 @@
 -  Participate in Hackathons
 
 ---
-
 ## Connect With Me
 
 <p align="center">
-  <a href="https://github.com/erayetsegaye">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="https://github.com/erayetsegaye" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="mailto:lankamoeraye@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/erayetsegaye?igsh=MWU2emUxcTF5a3VlbQ==" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>
+
 
 ---
 
