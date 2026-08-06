@@ -82,9 +82,9 @@
   <a href="mailto:lankamoeraye@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  <a href="https://www.instagram.com/erayetsegaye?igsh=MWU2emUxcTF5a3VlbQ==" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
+  <a href="https://www.linkedin.com/in/eraye-tsegaye-lankamo-260805421" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
   <a href="https://x.com/ErayeTsegaye" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="X" />
   </a>
